@@ -1,0 +1,144 @@
+background: url(images/dzen.png) no-repeat center center fixed;
+        background-size: cover;
+		.full-screen > div {
+          width: 100vw;
+          margin-left: -100%;
+        }
+        .full-screen img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+		margin: 0 auto;}
+.full-screen h2 {
+	position	: absolute;
+	top		: 100px;
+	left		: 0;
+	width		: 100%;
+	color    : #FFEFD5;
+	font-size : 100pt;
+}
+		
+p{padding-left: 150px;
+font-weight: 700;}
+.example{ width: 100%; }
+
+.example td.first{ width: 30%;}
+
+
+
+.example td.second{ width: 40%; 
+}
+p {font-size: 20px;
+ color:"black" ;
+font-family:"David Libre";
+}
+
+table {
+    margin-bottom: 2em; /* Отступ снизу */
+   padding-left: 150px; 
+   }
+table.tb {
+    width: 1200px%; /* Ширина таблицы в процентах */
+}
+.image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+
+h4 {
+	position	: absolute;
+	top		: 100px;
+	left		: 0;
+	width		: 100%;
+	color    : #FFEFD5;
+	font-size : 1000pt;
+}
+
+#box { 
+align="center"
+width:800px;
+height:1000px;
+
+background-color:#DAA520; }
+#box {
+	margin-left: 150px;
+-webkit-border-radius: 30px 30px;
+}
+.box {
+	position	: relative;
+	width		: 70%; /* for IE 6 */
+}
+
+h4 {
+	position	: absolute;
+	top		: 10px;
+	left		: 230px;
+	width		: 100%;
+	color    : #FFEFD5;
+	font-size : 20pt;
+}
+
+.new{ width: 100%; }
+.new td.first{ width: 30%;}
+.new td.second{ width: 50%; }
+#box1 { 
+align="center"
+width:800px;
+height:380px;
+
+background-color:#DAA520; }
+#box1 {width:500px;
+	margin-left: 150px;
+-webkit-border-radius: 30px 30px;
+}
+
+input {align="center";
+	background-color:#FFDEAD;
+-webkit-border-radius: 30px 30px;
+width:300px;
+height:20px
+}
+input:required{height:100px
+text-align=""}
+.button {
+	background-color: FFDEAD;
+    color: black;
+    border: 2px solid #FFDEAD;
+	
+    padding: 15px 32px;
+    font-size: 16px;
+	
+-webkit-border-radius: 30px 30px;
+}
+
+
+a.knopka {
+  color: #000000; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  padding: .7em 1.5em; /* отступ от текста */
+  -webkit-border-radius: 30px 30px;
+  
+    border: 2px solid black;
+} 
+a.knopka:hover { background-color: #FFDEAD; } /* при наведении курсора мышки */
+a.knopka:active { background-color: #91672F;} /* при нажатии */
+#box2 { 
+
+width:100%;
+height:280px;
+
+background-color:#91672F; }
+
+.end{ width: 100%;}
+
+.end td.first{ width: 40%;}
+
+
+
+.end td.second{ width: 50%; align="left";
+}
+.end td{ 
+color : #FFFFFF;
+}
+
